@@ -21,7 +21,7 @@ const App = () => {
     >
       <div>
       <h1 className="text-4xl font-extrabold tracking-wide mb-4 bg-gradient-to-tr from-orange-500 to-purple-800 bg-clip-text text-transparent">
-  Hashiiiii Counter!!!
+  Hashiiii Counter!!!
 </h1>
 
       </div>
